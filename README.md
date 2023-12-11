@@ -17,5 +17,5 @@ Project Details:-
     How to: use HTML, and CSS to complete this project mainly.
 
 Final Output:
-![final view of the Personal_porfolio website](cpazad-github-io-Personal-Portfolio.png)
+![final view of the Personal_porfolio website](personal_profile_site_img.png)
 Thank You. 
